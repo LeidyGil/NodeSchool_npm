@@ -1,0 +1,15 @@
+{
+  "name": "@leidygil/package.json",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "repository": "https://github.com/worskshopper/how-to-npm",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}

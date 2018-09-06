@@ -1,0 +1,7 @@
+     npm help ............ Ayuda de npm (en inglés)
+     how-to-npm print .... Vuelve a mostrar el ejercicio corriente.
+     how-to-npm verify ... Verifica que has completado el ejercicio.
+     how-to-npm solution . Muestra la solución para este ejercicio.
+
+
+npm help scripts`.  documentacion para los tests en npm
